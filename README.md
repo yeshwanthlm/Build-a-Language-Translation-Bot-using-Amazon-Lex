@@ -54,3 +54,37 @@ Lambda Role:
 TranslateFullAccess
 AWSLambdaBasicExecutionRole
 ```
+
+### Lambda Test Event:
+
+```JSON
+{
+  "sessionState": {
+    "intent": {
+      "name": "TranslateIntent",
+      "slots": {
+        "text": {
+          "value": {
+            "interpretedValue": "Hello",
+            "originalValue": "Hello"
+          }
+        },
+        "language": {
+          "value": {
+            "interpretedValue": "French",
+            "originalValue": "French"
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+Follow us:
+* Join the channel: https://www.youtube.com/channel/UCwhERUcuzUCwr8x8mQ8zrcw/join
+* YouTube: https://www.youtube.com/@TechWithYeshwanth/videos
+* Follow our GitHub here: https://github.com/yeshwanthlm
+* Follow our blog here: https://dev.to/yeshwanthlm/
+* Follow us on Instagram: https://www.instagram.com/techwithyeshwanth/
+* Follow us on LinkedIn: https://www.linkedin.com/in/yeshwanth-l-m/
