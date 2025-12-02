@@ -18,7 +18,7 @@ Video Link:
 
 ### Services Used 🛠
 * Amazon Lex: Build the chatbot and define conversation flow.
-* AWS Lambda: Get the book recommendation using a third party API.
+* AWS Lambda: For translation.
 * AWS IAM: Ensures secure access by managing user permissions.
 * Amazon Translate: Used for translation of the sentence according to the input language specified.
 
