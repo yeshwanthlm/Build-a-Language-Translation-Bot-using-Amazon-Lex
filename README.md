@@ -4,7 +4,7 @@ If you want to translate a word or sentence into another language, all you have 
 
 ### Video Tutorial
 <img width="1920" height="1080" alt="Language  Translation Bot" src="https://github.com/user-attachments/assets/510df793-ac51-4bd2-b699-22bf51f634c0" />
-Video Link: 
+Video Link: https://youtu.be/aiBdVVGv74U
 
 ### In this video, we'll be going through the following steps.
 
